@@ -28,6 +28,23 @@
 *.hta linguist-detectable=true
 *.hta linguist-documentation=false
 *.hta linguist-language=HTML
+# kvlang source file
+*.kv linguist-detectable=true
+*.kv linguist-documentation=false
+*.kv linguist-language=kvlang
+# Python source file
+*.py linguist-detectable=true
+*.py linguist-documentation=false
+*.py linguist-language=Python
+*.py3 linguist-detectable=true
+*.py3 linguist-documentation=false
+*.py3 linguist-language=Python
+*.pyt linguist-detectable=true
+*.pyt linguist-documentation=false
+*.pyt linguist-language=Python
+*.pyw linguist-detectable=true
+*.pyw linguist-documentation=false
+*.pyw linguist-language=Python
 # CSS (Cascade Styling Sheets) stylesheet file
 *.css linguist-detectable=true
 *.css linguist-documentation=false
@@ -165,6 +182,6 @@
 
 # File info
 # File type: gitattributes file (.gitattributes)
-# File version: 4 (2022, Tuesday, June 28th at 2:32 pm PST)
-# Line count (including blank lines and compiler line): 171
+# File version: 5 (2022, Wednesday, August 24th at 4:41 pm PST)
+# Line count (including blank lines and compiler line): 188
 # End of script
